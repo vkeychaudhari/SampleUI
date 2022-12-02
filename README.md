@@ -1,5 +1,5 @@
 # SampleUI
-Sample WPF Screens
+Sample WPF Screens designed by me.
 
 ![Test Image 4](https://github.com/vkeychaudhari/SampleUI/blob/main/Screen1.JPG)
 
